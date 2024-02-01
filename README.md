@@ -1,5 +1,5 @@
 # CalculatorWords
-This is a 4 digit 7 segment display that output some 4 letter calculator words I made with a raspberry pi.
+This is a 4 digit 7 segment display that outputs some 4 letter calculator words I made with a raspberry pi.
 
 Calculator words are are numbers input into a calculator that when flipped upside down are words.
 
